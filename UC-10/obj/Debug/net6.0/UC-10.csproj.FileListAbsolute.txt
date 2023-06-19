@@ -13,3 +13,5 @@ C:\.NET_AI\UC-10\UC-10\obj\Debug\net6.0\refint\UC-10.dll
 C:\.NET_AI\UC-10\UC-10\obj\Debug\net6.0\UC-10.pdb
 C:\.NET_AI\UC-10\UC-10\obj\Debug\net6.0\UC-10.genruntimeconfig.cache
 C:\.NET_AI\UC-10\UC-10\obj\Debug\net6.0\ref\UC-10.dll
+C:\.NET_AI\UC-10\UC-10\bin\Debug\net6.0\nunit.framework.dll
+C:\.NET_AI\UC-10\UC-10\obj\Debug\net6.0\UC-10.csproj.CopyComplete

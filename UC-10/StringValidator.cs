@@ -20,7 +20,7 @@ namespace UC_10
         {
             if (string.IsNullOrEmpty(value))
             {
-                throw new ArgumentNullException("The value should not be null or empty");
+                throw new ArgumentNullException("value");
             }
             if (maxLength <= 0)
             {
